@@ -1,0 +1,12 @@
+ul.navbar-nav li.nav-item {
+    margin-bottom: -0.2rem;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    background-color: var(--dashui-primary);
+    color: white !important;
+}
+
+.navbar-nav .nav-item .nav-link.active > i {
+    color: white !important;
+}
